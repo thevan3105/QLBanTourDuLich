@@ -12,7 +12,6 @@
 - có phân quyền cho người sử dụng admin
 - *thống kê đang hoàn thiện*
 ## Một số hình ảnh trong website
-![]() (&lt;img /&gt;)
-![](đường dẫn "title") (&lt;img alt="title"/&gt;)
-==text==
-> câu trích dẫn
+
+==D12QTANM==
+> Nhóm ăn kem
