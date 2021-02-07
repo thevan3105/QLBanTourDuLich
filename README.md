@@ -12,6 +12,6 @@
 - có phân quyền cho người sử dụng admin
 - *thống kê đang hoàn thiện*
 ## Một số hình ảnh trong website
-![](./imgReadMe/login.png) (&lt;img /&gt;)
-![](./imgReadMe/login.png "title") (&lt;img alt="title"/&gt;)
+### trang login
+![alt](./imgReadMe/login.png)
 > nhóm ăn kem
