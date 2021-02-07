@@ -12,6 +12,14 @@
 - có phân quyền cho người sử dụng admin
 - *thống kê đang hoàn thiện*
 ## Một số hình ảnh trong website
-### trang login
+### trang đăng ký
 ![alt](./imgReadMe/login.png)
+### trang admin
+![alt](./imgReadMe/admin.png)
+### trang home
+![alt](./imgReadMe/home.png)
+### trang customer
+![alt](./imgReadMe/customer.png)
+### trang đặt tour
+![alt](./imgReadMe/dattour.png)
 > nhóm ăn kem
