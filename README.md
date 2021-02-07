@@ -1,3 +1,3 @@
 # QLBanTourDuLich
-website hoàn chỉnh Admin &amp; Customer bán tour du lịch
+website hoàn chỉnh Admin & Customer bán tour du lịch;
 language: c#
