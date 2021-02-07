@@ -1,5 +1,6 @@
 # QLBanTourDuLich 🚎🌍🌏🌎
 ## website hoàn chỉnh Admin & Customer bán tour du lịch
+***use net framework 4.5***
 ## chức năng:
 - login/out/resgister
 - tạo tour
