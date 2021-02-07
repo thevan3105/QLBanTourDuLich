@@ -1,7 +1,7 @@
 # QLBanTourDuLich
-website hoàn chỉnh Admin & Customer bán tour du lịch
+## website hoàn chỉnh Admin & Customer bán tour du lịch
 
-chức năng:
+## chức năng:
 - login/out/resgister
 - tạo tour
 - sửa tuor
@@ -13,4 +13,4 @@ chức năng:
 - có phân quyền cho người sử dụng admin
 - thống kê đang hoàn thiện
 
-Một số hình ảnh trong website
+## Một số hình ảnh trong website
