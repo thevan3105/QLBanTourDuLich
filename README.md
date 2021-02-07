@@ -13,5 +13,4 @@
 - *thống kê đang hoàn thiện*
 ## Một số hình ảnh trong website
 
-==D12QTANM==
-> Nhóm ăn kem
+> nhóm ăn kem
